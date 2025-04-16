@@ -2,7 +2,7 @@
 # Praktikum 1
 
 # Pertanyaan dan Tugas
-* Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.
+* ![image](https://github.com/user-attachments/assets/85abcf4c-abbf-4731-b470-e618590a7c8b)
 
 # Halaman Utama
 
