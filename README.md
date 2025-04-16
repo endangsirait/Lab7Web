@@ -1,8 +1,10 @@
-# Lab7Web
+![image](https://github.com/user-attachments/assets/966fe983-98e5-4d70-b73d-612860c130f1)# Lab7Web
 # Praktikum 1
 
 # Pertanyaan dan Tugas
-* ![image](https://github.com/user-attachments/assets/85abcf4c-abbf-4731-b470-e618590a7c8b)
+* ![image](https://github.com/user-attachments/assets/fb7dc897-67d0-46f6-b264-05d8a0f204af)
+
+
 
 # Halaman Utama
 
