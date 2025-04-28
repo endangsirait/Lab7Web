@@ -4,9 +4,7 @@
 
 
 1. Untuk mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel, pada bagian Apache
-klik Config -> PHP.ini
-
-![Screenshot 2025-03-21 123847](https://github.com/user-attachments/assets/b8ba7a44-51a2-4c61-949f-abae1f2d7e90)
+klik Config -> PHP.
 
 
 2. Pada bagian extention, hilangkan tanda ; (titik koma) pada ekstensi yang akan diaktifkan.
